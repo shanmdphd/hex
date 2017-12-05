@@ -1,5 +1,6 @@
 # hex
 Creation of hexagon stickers
 
-
-![](NonCompart.png)
+![](docs/NonCompart.png) 
+![](docs/ncarbe.png)
+![](docs/cryptokor.png)
